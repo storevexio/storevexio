@@ -1,4 +1,7 @@
-# 🏛️ Storvexio
+<div style="display: flex; align-items:center;">
+    <img src="Storvexio.PNG" style="width: 50px; height: auto;"/>
+    <span style="padding: auto; font-weight: bold; font-size: 32px;">Storvexio</span>
+</div>
 
 - 👋 **Hi, I’m @storevexio** 
   Welcome to my digital vault!  
